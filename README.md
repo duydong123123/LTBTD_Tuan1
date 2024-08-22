@@ -38,7 +38,7 @@ as well (draw means they have the same average score)
 3. Bonus 1: Include a requirement for a minimum score of 100. With this rule, a
 team only wins if it has a higher score than the other team, and the same time a
 score of at least 100 points. Hint: Use a logical operator to test for minimum
-score, as well as multiple else-if blocks �
+score, as well as multiple else-if blocks 
 4. Bonus 2: Minimum score also applies to a draw! So a draw only happens when
 both teams have the same score and both have a score greater or equal 100
 points. Otherwise, no team wins the trophy
@@ -54,7 +54,7 @@ restaurant. In his country, it's usual to tip 15% if the bill value is between 5
 300. If the value is different, the tip is 20%.
 Your tasks:
 1. Calculate the tip, depending on the bill value. Create a variable called 'tip' for
-this. It's not allowed to use an if/else statement � (If it's easier for you, you can
+this. It's not allowed to use an if/else statement  (If it's easier for you, you can
 start with an if/else statement, and then try to convert it to a ternary
 operator!)
 2. Print a string to the console containing the bill value, the tip, and the final value
