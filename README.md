@@ -1,4 +1,5 @@
 --------------Coding Challenge #1--------------
+
 Mark and John are trying to compare their BMI (Body Mass Index), which is
 calculated using the formula:
 BMI = mass / height ** 2 = mass / (height * height) (mass in kg
@@ -16,6 +17,7 @@ m tall.
 m tall.
 
 --------------Coding Challenge #2--------------
+
 Use the BMI example from Challenge #1, and the code you already wrote, and
 improve it.
 Your tasks:
@@ -25,6 +27,7 @@ is either "Mark's BMI is higher than John's!" or "John's BMI is higher than Mark
 BMI (28.3) is higher than John's (23.9)!"
 
 --------------Coding Challenge #3--------------
+
 There are two gymnastics teams, Dolphins and Koalas. They compete against each
 other 3 times. The winner with the highest average score wins a trophy!
 Your tasks:
@@ -45,6 +48,7 @@ Test data:
 § Data Bonus 2: Dolphins score 97, 112 and 101. Koalas score 109, 95 and 106
 
 --------------Coding Challenge #4--------------
+
 Steven wants to build a very simple tip calculator for whenever he goes eating in a
 restaurant. In his country, it's usual to tip 15% if the bill value is between 50 and
 300. If the value is different, the tip is 20%.
